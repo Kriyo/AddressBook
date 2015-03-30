@@ -1,0 +1,9 @@
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\bin\Release\AddressBook.exe.config
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\bin\Release\AddressBook.exe
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\bin\Release\AddressBook.pdb
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\obj\Release\AddressBook.Form1.resources
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\obj\Release\AddressBook.Properties.Resources.resources
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\obj\Release\AddressBook.csproj.GenerateResource.Cache
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\obj\Release\AddressBook.exe
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\obj\Release\AddressBook.pdb
+c:\users\kri\documents\visual studio 2012\Projects\AddressBook\AddressBook\obj\Release\AddressBook.csprojResolveAssemblyReference.cache
